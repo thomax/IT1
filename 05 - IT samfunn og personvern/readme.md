@@ -2,4 +2,4 @@
 
 ## Oppgaver
 
-[Film: Ex Machina](./Film - Ex Machina.md)
+[Film: Ex Machina](Film - Ex Machina.md)
