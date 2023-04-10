@@ -42,7 +42,7 @@
    ```js
    const express = require("express")
    const app = express()
-   const PORT = process.env.PORT || 3000
+   const PORT = 3000
 
    app.listen(PORT, () => {
      console.log(`Server is up and running on port ${PORT}`)
@@ -59,7 +59,7 @@
 
 7. Legg til en start-kommando
 
-   Åpne `package.json` i VS Code og sjekk at det som står i "scripts" ser slik ut:
+   Åpne `package.json` i VS Code og endre denne slik at det som står i "scripts" ser slik ut:
 
    ```json
    "scripts": {
