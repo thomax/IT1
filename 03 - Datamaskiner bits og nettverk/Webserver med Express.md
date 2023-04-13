@@ -33,7 +33,11 @@
 
 5. Opprett fil som skal holde server-koden
 
-   Lag en ny fil i prosjektmappa som heter `index.js`
+   Lag en ny fil i prosjektmappa som heter `index.js`. Du kan gjøre dette rett i terminalen ved å skrive:
+
+   ```
+   type nul > index.js
+   ```
 
 6. Skriv server-koden
 
