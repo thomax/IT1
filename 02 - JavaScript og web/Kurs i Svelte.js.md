@@ -29,7 +29,7 @@ Nå ser du denne filstrukturen på venstresiden
 
 ![bilde](assets/screen1.png)
 
-Men disse filene trenger du egentlig ikke å tenke på så mye. Vi skal bare jobbe i mappen som heter **src.**. Den ser slik ut:
+Men disse filene trenger du egentlig ikke å tenke på så mye. Vi skal bare jobbe i mappen som heter **src**. Den ser slik ut:
 
 ![bilde](assets/screen2.png)
 
@@ -37,13 +37,13 @@ I første omgang skal vi kun jobbe i filen som heter **+page.svelte**
 
 Prøv å gjøre en endring i +page.svelte og sjekk at nettsiden endrer seg.
 
-En viktig forskjell fra tidligere er at vi ikke trenger å bry oss om `<head>` og `<body>`, ettersom Svelta automatisk pakker det som finnes i +page.svelte inn i en template/mal.
+En viktig forskjell fra tidligere er at vi ikke trenger å bry oss om `<head>` og `<body>`, ettersom Svelta automatisk pakker det som finnes i +page.svelte inn i en template.
 
-Istedenfor å lage en egen style.css-fil slik vi har gjort tidligere, er det mer praktisk å bruke `style`\-tag inne i +page.svelte.
+I stedet for å lage en egen CSS-fil slik vi har gjort tidligere, er det mer praktisk akkurat nå å bruke `<style>` tag inne i +page.svelte.
 
 ### CSS
 
-Du kan jo f.eks. legge inn in tekst med `p`\-tag'n og prøve å gi teksten en annen farge for å sjekke om alt fungerer som det skal. Da lager du en `style`\-tag og skriver `p { color: red; }`
+Du kan jo f.eks. legge inn tekst med en `<p>` tag og prøve å gi teksten en annen farge for å sjekke om alt fungerer som det skal. Da lager du en `<style>` tag og skriver `p { color: red; }`
 
 ### Bruke en variabel
 
@@ -61,7 +61,7 @@ I Python kunne du bare skrevet `navn = "Bob"`, men JavaScript er litt mer kresen
 
 La oss se på et eksempel med en funksjon:
 
-![](assets/screen5.png)
+![](assets/screen4.png)
 
 Først lager du en variabel som du kaller for `counter` som skal telle hvor mange ganger brukeren har trykket på en knapp. Deretter lager du en funksjon `increaseCounter` som øker counter med 1 hver gang funksjonen blir kalt.
 
@@ -77,4 +77,4 @@ Når du blir ferdig, jobber du med å lære mer om Svelte og JavaScript på [htt
 
 ## Credits
 
-Dette innholdet er mer eller mindre rippa direkte fra [http://svelte.bakkaweb.no](http://svelte.bakkaweb.no/). Jeg har bare gjort noen mindre justeringer for å passe det til mine elever. Tusen takk, Sondre!
+Dette innholdet er mer eller mindre rippa direkte fra [http://svelte.bakkaweb.no](http://svelte.bakkaweb.no/). Jeg har bare gjort noen mindre justeringer. Tusen takk, Sondre!
