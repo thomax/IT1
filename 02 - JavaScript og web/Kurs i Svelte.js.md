@@ -11,7 +11,7 @@ Brum terminalen (cmd) til å navigere til der du vil at det nye prosjektet/appen
 - I terminalen, skriv inn:
   - `npm create svelte@latest my-app`, men bytt ut "my-app" med det du vil at prosjektet/appen din skal hete.
   - Bruk piltaster + enter til å velge **skeleton project**
-  - Velg **No**
+  - Velg **No** på spørsmål om typing
   - Svar **nei/ingenting** til resten av spørsmålene
 - Skriv `cd my-app` (eller hva appen din heter) i terminalvinduet
 - Skriv `npm install`
@@ -77,4 +77,4 @@ Når du blir ferdig, jobber du med å lære mer om Svelte og JavaScript på [htt
 
 ## Credits
 
-Dette innholdet er mer eller mindre rippa direkte fra [http://svelte.bakkaweb.no](http://svelte.bakkaweb.no/). Jeg har bare gjort noen mindre justeringer. Tusen takk, Sondre!
+Dette innholdet er rippa mer eller mnindre direkte fra [http://svelte.bakkaweb.no](http://svelte.bakkaweb.no/). Jeg har bare gjort noen små justeringer. Tusen takk, Sondre Stai på Elvebakken!
