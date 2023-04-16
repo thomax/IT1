@@ -55,7 +55,7 @@ Vi kan nå bruke variabelen vår på nettsiden ved å skrive `{navn}` et sted i 
 
 ![](assets/screen4.png)
 
-I Python kunne du bare skrevet `navn = "Sondre"`, men legg merke til at JavaScript er litt mer kresen, så vi må faktisk spesifisere at vi skal lage en variabel, enten ved å skrive `const` eller `let`.
+I Python kunne du bare skrevet `navn = "Bob"`, men JavaScript er litt mer kresen, så vi må spesifisere at vi skal lage en variabel, enten ved å skrive `const` (variabelen kan ikke endres) eller `let` (variabelen kan endres).
 
 La oss se på et eksempel med en funksjon:
 
@@ -72,3 +72,7 @@ Ved å bruke teknikkene du har lært hittil, sjekk om du kan lage et kontrollpan
 Bruk det du har lært tidligere om HTML og CSS til å få kontrollpanelet til å se pent ut.
 
 Når du blir ferdig, jobber du med å lære mer om Svelte og JavaScript på [https://svelte.dev/tutorial/basics](https://svelte.dev/tutorial/basics).
+
+## Credits
+
+Dette innholdet er mer eller mindre rippa direkte fra [http://svelte.bakkaweb.no](http://svelte.bakkaweb.no/). Jeg har bare gjort noen mindre justeringer for å passe det til mine elever. Tusen takk, Sondre!
