@@ -41,21 +41,23 @@ En viktig forskjell fra tidligere er at vi ikke trenger å bry oss om `<head>` o
 
 Istedenfor å lage en egen style.css-fil slik vi har gjort tidligere, er det mer praktisk å bruke `style`\-tag inne i +page.svelte.
 
+### CSS
+
 Du kan jo f.eks. legge inn in tekst med `p`\-tag'n og prøve å gi teksten en annen farge for å sjekke om alt fungerer som det skal. Da lager du en `style`\-tag og skriver `p { color: red; }`
+
+### Bruke en variabel
 
 I tillegg til HTML og CSS kan vi også bruke JavaScript!
 
 For å skrive JavaScript, så må koden ligge inni en `<script></script>` tag.
 
-La oss sjekke om dette fungerer. Lag en `<script>` tag og lag en variabel:
+La oss sjekke om dette fungerer. Lag en `<script>` tag og lag en variabel `name`. Deretter en `<p>` som skriver ut innholdet av variabelen:
 
 ![](assets/screen3.png)
 
-Vi kan nå bruke variabelen vår på nettsiden ved å skrive `{navn}` et sted i HTML-en våres. F.eks.
-
-![](assets/screen4.png)
-
 I Python kunne du bare skrevet `navn = "Bob"`, men JavaScript er litt mer kresen, så vi må spesifisere at vi skal lage en variabel, enten ved å skrive `const` (variabelen kan ikke endres) eller `let` (variabelen kan endres).
+
+### En funksjon
 
 La oss se på et eksempel med en funksjon:
 
