@@ -55,7 +55,7 @@ La oss sjekke om dette fungerer. Lag en `<script>` tag og lag en variabel `name`
 
 ![](assets/screen3.png)
 
-I Python kunne du bare skrevet `navn = "Bob"`, men JavaScript er litt mer kresen, så vi må spesifisere at vi skal lage en variabel, enten ved å skrive `const` (variabelen kan ikke endres) eller `let` (variabelen kan endres).
+I Python kunne du bare skrevet `name = "Bob"`, men JavaScript er litt mer kresen, så vi må spesifisere at vi skal lage en variabel, enten ved å skrive `const` (variabelen kan ikke endres) eller `let` (variabelen kan endres).
 
 ### En funksjon
 
