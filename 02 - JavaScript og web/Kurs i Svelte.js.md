@@ -77,4 +77,4 @@ Når du blir ferdig, jobber du med å lære mer om Svelte og JavaScript på [htt
 
 ## Credits
 
-Dette innholdet er rippa mer eller mnindre direkte fra [http://svelte.bakkaweb.no](http://svelte.bakkaweb.no/). Jeg har bare gjort noen små justeringer. Tusen takk, Sondre Stai på Elvebakken!
+Dette innholdet er rippa mer eller mindre direkte fra [http://svelte.bakkaweb.no](http://svelte.bakkaweb.no/). Jeg har bare gjort noen små justeringer. Tusen takk, Sondre Stai på Elvebakken!
